@@ -52,3 +52,19 @@ module.exports = function(app) {
 9. view 디렉토리에 axios 설치  (npm install axios --save)
 
 10. react 빌드 (src\main\view\src 디렉토리 npm run build )
+
+
+================ 참조 ================
+
+** gradle build watch
+(https://gyoogle.dev/blog/web-knowledge/react-knowledge/React%20&%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.html)
+
+
+** application.properties 설정
+(https://ddol.tistory.com/28)
+
+** React
+(https://developer.mozilla.org/ko/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+
+** MUI 
+(https://mui.com/material-ui/getting-started/templates/)
